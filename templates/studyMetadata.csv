@@ -1,0 +1,11 @@
+Topic,Description
+culture_preconditions, "Martin`s agar as slant cultures and stored at 4 °C until use"
+culture_ph, "7"
+culture_volume, "200 ml"
+container_type, "250 ml Erlenmeyer flasks"
+culture_media,"fresh sterile modified Czapek-Dox liquid medium with yeast extract"
+culture_temp,"20-25 °C"
+culture_community,individual
+tissue_type,mycellium
+experiment_type,Lab
+replicates, "3-5 per fungus"
