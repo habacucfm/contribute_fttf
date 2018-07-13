@@ -16,7 +16,7 @@ Thank you for contributing to Fun<sup>fun</sup> (a fungal functional trait datab
 
 
 
-[Download the template for data.csv](data:text/csv;base64,U3BlY2llcyxkc0ROQSAodWcgbWctMSBkcnkgd2VpZ2h0KSxNZWFuIGdyb3d0aCByYXRlIChjbS9kYXkpCkFsdGVybmFyaWEsNS4zNCwwLjczCkFzcGVyZ2lsbHVzIG5pZ2VyLDQuNTEsMC42NQpBc3BlcmdpbGx1cyBuaWdlciwyLjgzLE5BCkFzcGVyZ2lsbHVzIG5pZ2VyLDEuMTIsTkEKQm90cnl0aXMgYWxsaWksNCwwLjUz) **or** open it directly in your | <a download="dataMatchColumns.csv" href="data:application/csv;base64,U3BlY2llcyxkc0ROQSAodWcgbWctMSBkcnkgd2VpZ2h0KSxNZWFuIGdyb3d0aCByYXRlIChjbS9kYXkpCkFsdGVybmFyaWEsNS4zNCwwLjczCkFzcGVyZ2lsbHVzIG5pZ2VyLDQuNTEsMC42NQpBc3BlcmdpbGx1cyBuaWdlciwyLjgzLE5BCkFzcGVyZ2lsbHVzIG5pZ2VyLDEuMTIsTkEKQm90cnl0aXMgYWxsaWksNCwwLjUz">browser</a>
+[Download the template for data.csv](https://raw.githubusercontent.com/habacucfm/contribute_fttf/master/templates/data.csv)
 
 
 
@@ -31,7 +31,7 @@ Thank you for contributing to Fun<sup>fun</sup> (a fungal functional trait datab
 
 
 
-[Download the template for dataMatchColumns.csv](data:text/csv;base64,InZhcl9pbiIsIm1ldGhvZCIsInVuaXRfaW4iLCJ2YXJfb3V0Iiwibm90ZXMiCiJTcGVjaWVzIixOQSxOQSwic3BlY2llcyIsTkEKImRzRE5BICh1ZyBtZy0xIGRyeSB3ZWlnaHQpIixOQSwidWcvbWciLGRzRE5BLE5BCiJNZWFuIGdyb3d0aCByYXRlIChjbS9kYXkpIixOQSwiY20vZGF5IiwiZXh0ZW5zaW9uX3JhdGUiLE5B) **or** open it directly in your | <a download="dataMatchColumns.csv" href="data:application/csv;base64,InZhcl9pbiIsIm1ldGhvZCIsInVuaXRfaW4iLCJ2YXJfb3V0Iiwibm90ZXMiCiJTcGVjaWVzIixOQSxOQSwic3BlY2llcyIsTkEKImRzRE5BICh1ZyBtZy0xIGRyeSB3ZWlnaHQpIixOQSwidWcvbWciLGRzRE5BLE5BCiJNZWFuIGdyb3d0aCByYXRlIChjbS9kYXkpIixOQSwiY20vZGF5IiwiZXh0ZW5zaW9uX3JhdGUiLE5B">browser</a>
+[Download the template for dataMatchColumns.csv](https://raw.githubusercontent.com/habacucfm/contribute_fttf/master/templates/dataMatchColumns.csv)
 
 
 
@@ -54,7 +54,7 @@ Thank you for contributing to Fun<sup>fun</sup> (a fungal functional trait datab
 
 
 
-[Download the template for studyMetadata.csv](data:text/csv;base64,VG9waWMsRGVzY3JpcHRpb24KY3VsdHVyZV9wcmVjb25kaXRpb25zLCAiTWFydGluYHMgYWdhciBhcyBzbGFudCBjdWx0dXJlcyBhbmQgc3RvcmVkIGF0IDQgwrBDIHVudGlsIHVzZSIKY3VsdHVyZV9waCwgIjciCmN1bHR1cmVfdm9sdW1lLCAiMjAwIG1sIgpjb250YWluZXJfdHlwZSwgIjI1MCBtbCBFcmxlbm1leWVyIGZsYXNrcyIKY3VsdHVyZV9tZWRpYSwiZnJlc2ggc3RlcmlsZSBtb2RpZmllZCBDemFwZWstRG94IGxpcXVpZCBtZWRpdW0gd2l0aCB5ZWFzdCBleHRyYWN0IgpjdWx0dXJlX3RlbXAsIjIwLTI1IMKwQyIKY3VsdHVyZV9jb21tdW5pdHksaW5kaXZpZHVhbAp0aXNzdWVfdHlwZSxteWNlbGxpdW0KZXhwZXJpbWVudF90eXBlLExhYgpyZXBsaWNhdGVzLCAiMy01IHBlciBmdW5ndXMi) **or** open it directly in your | <a download="dataMatchColumns.csv" href="data:application/csv;base64,VG9waWMsRGVzY3JpcHRpb24KY3VsdHVyZV9wcmVjb25kaXRpb25zLCAiTWFydGluYHMgYWdhciBhcyBzbGFudCBjdWx0dXJlcyBhbmQgc3RvcmVkIGF0IDQgwrBDIHVudGlsIHVzZSIKY3VsdHVyZV9waCwgIjciCmN1bHR1cmVfdm9sdW1lLCAiMjAwIG1sIgpjb250YWluZXJfdHlwZSwgIjI1MCBtbCBFcmxlbm1leWVyIGZsYXNrcyIKY3VsdHVyZV9tZWRpYSwiZnJlc2ggc3RlcmlsZSBtb2RpZmllZCBDemFwZWstRG94IGxpcXVpZCBtZWRpdW0gd2l0aCB5ZWFzdCBleHRyYWN0IgpjdWx0dXJlX3RlbXAsIjIwLTI1IMKwQyIKY3VsdHVyZV9jb21tdW5pdHksaW5kaXZpZHVhbAp0aXNzdWVfdHlwZSxteWNlbGxpdW0KZXhwZXJpbWVudF90eXBlLExhYgpyZXBsaWNhdGVzLCAiMy01IHBlciBmdW5ndXMi">browser</a>
+[Download the template for studyMetadata.csv](https://raw.githubusercontent.com/habacucfm/contribute_fttf/master/templates/studyMetadata.csv)
 
 
 
@@ -83,7 +83,7 @@ Thank you for contributing to Fun<sup>fun</sup> (a fungal functional trait datab
 
 
 
-[Download the template for the study reference](data:text/csv;base64,QGFydGljbGV7d2FsbGFjZTE5MDJpc2xhbmQsCiAgdGl0bGU9e0lzbGFuZCBsaWZlLCBvciwgdGhlIHBoZW5vbWVuYSBhbmQgY2F1c2VzIG9mIGluc3VsYXIgZmF1bmFzIGFuZCBmbG9yYXM6IGluY2x1ZGluZyBhIHJldmlzaW9uIGFuZCBhdHRlbXB0ZWQgc29sdXRpb24gb2YgdGhlIHByb2JsZW0gb2YgZ2VvbG9naWNhbCBjbGltYXRlc30sCiAgYXV0aG9yPXtXYWxsYWNlLCBBbGZyZWQgUnVzc2VsfSwKICBqb3VybmFsPXtKb3VybmFsIG9mIEJpb2dlZ3JhcGh5fSwKICB2b2x1bWU9ezU4fSwKICBudW1iZXI9ezF9LAogIHBhZ2VzPXsxOS0yMH0sCiAgeWVhcj17MjAwOH0sCiAgcHVibGlzaGVyPXtNYWNtaWxsYW59Cn0=) **or** open it directly in your | <a download="dataMatchColumns.csv" href="data:application/csv;base64,QGFydGljbGV7d2FsbGFjZTE5MDJpc2xhbmQsCiAgdGl0bGU9e0lzbGFuZCBsaWZlLCBvciwgdGhlIHBoZW5vbWVuYSBhbmQgY2F1c2VzIG9mIGluc3VsYXIgZmF1bmFzIGFuZCBmbG9yYXM6IGluY2x1ZGluZyBhIHJldmlzaW9uIGFuZCBhdHRlbXB0ZWQgc29sdXRpb24gb2YgdGhlIHByb2JsZW0gb2YgZ2VvbG9naWNhbCBjbGltYXRlc30sCiAgYXV0aG9yPXtXYWxsYWNlLCBBbGZyZWQgUnVzc2VsfSwKICBqb3VybmFsPXtKb3VybmFsIG9mIEJpb2dlZ3JhcGh5fSwKICB2b2x1bWU9ezU4fSwKICBudW1iZXI9ezF9LAogIHBhZ2VzPXsxOS0yMH0sCiAgeWVhcj17MjAwOH0sCiAgcHVibGlzaGVyPXtNYWNtaWxsYW59Cn0=">browser</a>
+[Download the template for the study reference](https://raw.githubusercontent.com/habacucfm/contribute_fttf/master/templates/studyRef.bib)
 
 
 
@@ -99,4 +99,3 @@ Thank you for contributing to Fun<sup>fun</sup> (a fungal functional trait datab
 
 
 [Download the template for study contact information](https://raw.githubusercontent.com/habacucfm/contribute_fttf/master/templates/studyContact.csv)
- |
